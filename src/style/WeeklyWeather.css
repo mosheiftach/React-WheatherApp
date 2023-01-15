@@ -1,0 +1,10 @@
+.dynamic-header-wrapper{
+    color: black;
+    margin: 0px auto;
+    padding: 0px;
+    size: auto;
+}
+
+.today-current-temp{
+    margin-left: 100px;
+}
